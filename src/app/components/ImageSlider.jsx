@@ -14,12 +14,13 @@ const SECOND_IMAGE = {
 
 const ImageSlider = () => {
   return (
-    <ReactBeforeSliderComponent
-      firstImage={FIRST_IMAGE}
-      secondImage={SECOND_IMAGE}
-    />
+    <div style={{ width: "100%", height: "100%", maxWidth: "540px" }}>
+      <ReactBeforeSliderComponent
+        firstImage={FIRST_IMAGE}
+        secondImage={SECOND_IMAGE}
+      />
+    </div>
   );
 };
-
 
 export default ImageSlider;

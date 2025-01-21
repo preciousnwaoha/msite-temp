@@ -6,8 +6,10 @@ import styles from "./SlideShow.module.css";
 export default function SlideShow() {
   const images = [
     "/images/m1.jpg",
+    "/images/m11.jpg",
+    "/images/m8.jpg",
     "/images/m2.jpg",
-    "/images/m3.jpg",
+    "/images/m10.jpg",
     "/images/m4.jpg",
   ]; // Add the paths to your images here
   const [currentIndex, setCurrentIndex] = useState(0);

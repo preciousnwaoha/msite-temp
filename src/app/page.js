@@ -75,6 +75,7 @@ export default function Home() {
             BUT FR FR I'M SO SERIOUS{" "}
           </h2>
 
+            
           <SlideShow />
         </div>
 
