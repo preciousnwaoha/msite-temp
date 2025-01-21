@@ -20,7 +20,7 @@ export default function Home() {
     <div className={styles.page}>
       <main className={styles.main}>
         <div className={styles.topSlidingTextStyled}>
-          <div className={styles.starSign}></div> i mean bro, it's literally the
+          <div className={styles.starSign}></div> i mean bro, it&apos;s literally the
           First Lady wif a hat <div className={styles.starSign}></div>
         </div>
 
@@ -33,14 +33,14 @@ export default function Home() {
 
           <div className={styles.messageWrapper}>
             <p className={styles.messageWhiteStrikedThroughWithRedLine}>
-              {COIN_SYMBOL} isn't{" "}
+              {COIN_SYMBOL} isn&apos;t{" "}
               <span className={styles.messageRealStyledBox}>
                 <span className={styles.messageRealStyledBoxLongerInner}>
                   literally just {COIN_NAME_LONG};
                 </span>
               </span>
-              it's a symbol of progress, for futuristic transactions, a beacon
-              for those who think ahead. It's clear that the future belongs to
+              it&apos;s a symbol of progress, for futuristic transactions, a beacon
+              for those who think ahead. It&apos;s clear that the future belongs to
               those who embrace innovations like {COIN_SYMBOL}, transcending boundaries &
               paving a new era in finance and technology.
             </p>
@@ -72,15 +72,15 @@ export default function Home() {
               styles.showCaseSessionHeaderTextUnderlinedWithStylishRedMarks
             }
           >
-            BUT FR FR I'M SO SERIOUS{" "}
+            BUT FR FR I&apos;M SO SERIOUS{" "}
           </h2>
 
-            
+
           <SlideShow />
         </div>
 
         <div className={styles.buySection}>
-          <h1 className={styles.title}>get {COIN_TICKER} it's the best</h1>
+          <h1 className={styles.title}>get {COIN_TICKER} it&apos;s the best</h1>
 
           <div className={styles.buySectionInnerCard}>
             <div className={styles.buySectionInnerCardTopTag}>MOONER</div>
@@ -104,7 +104,7 @@ export default function Home() {
             <div className={styles.bulletPoints}>
               <div className={styles.bulletPointsItem}>
                 <div className={styles.bulletPointsItemIcon}></div>
-                <p>{COIN_SYMBOL} is going to the moon. it isn't just a cryptocurrency; it's a symbol of progress, for futuristic transactions, a beacon for those who think ahead. It's clear that the future belongs to those who embrace innovations like {COIN_SYMBOL}, transcending boundaries & paving a new era in finance and technology.</p>
+                <p>{COIN_SYMBOL} is going to the moon. it isn&apos;t just a cryptocurrency; it&apos;s a symbol of progress, for futuristic transactions, a beacon for those who think ahead. It&apos;s clear that the future belongs to those who embrace innovations like {COIN_SYMBOL}, transcending boundaries & paving a new era in finance and technology.</p>
               </div>
               <div className={styles.bulletPointsItem}>
                 <div className={styles.bulletPointsItemIcon}></div>
