@@ -1,7 +1,7 @@
-export const COIN_NAME = "Melania Wif Hat";
+export const COIN_NAME = "Official Melania Wif Hat";
 export const COIN_NAME_LONG = "Melania Wif a Hat";
-export const COIN_SYMBOL = "MWH";
-export const COIN_TICKER = "$MWH";
+export const COIN_SYMBOL = "OMWIF";
+export const COIN_TICKER = "$OMWIF";
 export const COIN_ADDRESS = "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f";
 
 
@@ -18,12 +18,12 @@ export const PLACES_TO_BUY = [
 export const FOOTER_LINKS = [
     {
         name: "Telegram",
-        url: "https://t.me/melaniawifhat",
+        url: "https://t.me/melaniawifcoin",
         logo: "https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg", // Official Telegram logo
     },
     {
         name: "Twitter",
-        url: "https://twitter.com/melaniawifhat",
+        url: "https://twitter.com/melaniawifcoin",
         logo: "https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_Logo_as_of_2021.svg", // Official Twitter logo
     },
     // {

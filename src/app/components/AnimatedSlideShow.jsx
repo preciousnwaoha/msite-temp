@@ -5,9 +5,8 @@ import styles from "./AnimatedSlideShow.module.css";
 
 export default function AnimatedSlideShow() {
   const images = [
-    "/images/m11.jpg",
-    "/images/m3.jpg",
-    "/images/m4.jpg",
+    "/images/m02.jpg",
+    "/images/m03.jpg",
   ]; // Add paths to your images
   const [currentIndex, setCurrentIndex] = useState(0);
 

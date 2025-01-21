@@ -20,7 +20,7 @@ export default function Home() {
     <div className={styles.page}>
       <main className={styles.main}>
         <div className={styles.topSlidingTextStyled}>
-          <div className={styles.starSign}></div> i mean bro, it&apos;s literally the
+          <div className={styles.starSign}></div> i mean bro, it&apos;s literally the Official
           First Lady wif a hat <div className={styles.starSign}></div>
         </div>
 
@@ -86,7 +86,7 @@ export default function Home() {
             <div className={styles.buySectionInnerCardTopTag}>MOONER</div>
 
             <Image
-              src="/images/m5.jpg"
+              src="/images/m01.jpg"
               alt="Melania Wif Hat"
               width={800}
               height={600}

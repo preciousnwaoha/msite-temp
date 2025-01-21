@@ -5,10 +5,10 @@ import ReactBeforeSliderComponent from "react-before-after-slider-component";
 import "react-before-after-slider-component/dist/build.css";
 
 const FIRST_IMAGE = {
-  imageUrl: "images/m5.jpg",
+  imageUrl: "images/m01.jpg",
 };
 const SECOND_IMAGE = {
-  imageUrl: "images/m9.jpg",
+  imageUrl: "images/m00.jpg",
 };
 /* ... */
 

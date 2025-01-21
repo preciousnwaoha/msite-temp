@@ -17,7 +17,7 @@ export default function SlideShow() {
   useEffect(() => {
     const interval = setInterval(() => {
       setCurrentIndex((prevIndex) => (prevIndex + 1) % images.length);
-    }, 500); // Change image every 500ms
+    }, 300); // Change image every 500ms
 
     return () => clearInterval(interval); // Cleanup on component unmount
   }, [images.length]);
