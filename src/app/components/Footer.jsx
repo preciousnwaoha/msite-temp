@@ -1,34 +1,30 @@
 "use client";
 
-import { FaTelegramPlane, FaTwitter, FaGithub, FaRedditAlien, FaDiscord } from "react-icons/fa";
+import { FaTelegramPlane, FaTwitter, FaGithub, FaRedditAlien, FaDiscord, FaChartBar } from "react-icons/fa";
 import styles from "./Footer.module.css";
 
 export const FOOTER_LINKS = [
   {
     name: "Telegram",
-    url: "https://t.me/melaniawifhat",
+    url: "https://t.me/melaniawifcoin",
     Icon: FaTelegramPlane, // React icon for Telegram
   },
   {
     name: "Twitter",
-    url: "https://twitter.com/melaniawifhat",
+    url: "https://x.com/melaniawifcoin",
     Icon: FaTwitter, // React icon for Twitter
   },
-  {
-    name: "GitHub",
-    url: "https://github.com/melaniawifhat",
-    Icon: FaGithub, // React icon for GitHub
-  },
-  {
-    name: "Reddit",
-    url: "https://www.reddit.com/r/melaniawifhat",
-    Icon: FaRedditAlien, // React icon for Reddit
-  },
-  {
-    name: "Discord",
-    url: "https://discord.gg/melaniawifhat",
-    Icon: FaDiscord, // React icon for Discord
-  },
+  // {
+  //   name: "GitHub",
+  //   url: "https://github.com/melaniawifhat",
+  //   Icon: FaGithub, // React icon for GitHub
+  // },
+  // {
+  //   name: "Chart",
+  //   url: "https://www.dexscreener.com/r/melaniawifhat",
+  //   Icon: FaChartBar, // React icon for Reddit
+  // },
+ 
 ];
 
 

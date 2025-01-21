@@ -26,13 +26,13 @@ export const FOOTER_LINKS = [
         url: "https://twitter.com/melaniawifhat",
         logo: "https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_Logo_as_of_2021.svg", // Official Twitter logo
     },
+    // {
+    //     name: "GitHub",
+    //     url: "https://github.com/melaniawifhat",
+    //     logo: "https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg", // Official GitHub logo
+    // },
     {
-        name: "GitHub",
-        url: "https://github.com/melaniawifhat",
-        logo: "https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg", // Official GitHub logo
-    },
-    {
-        name: "Reddit",
+        name: "Chart",
         url: "https://www.reddit.com/r/melaniawifhat",
         logo: "https://upload.wikimedia.org/wikipedia/commons/5/58/Reddit_logo_new.svg", // Official Reddit logo
     },
