@@ -1,0 +1,27 @@
+/* Footer */
+.footer {
+    margin-top: 40px;
+    text-align: center;
+    padding: 20px;
+    background: #161622;
+    border-top: 2px solid #ff6666;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .footerItem {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin: 10px 0;
+  }
+  
+  .footerItemSplitterIcon {
+    border-radius: 50%;
+  }
+  
+  .footerItemSplitterText {
+    font-size: 1rem;
+  }
+  
