@@ -8,6 +8,10 @@ export default function Quote() {
   console.log("Some new changes...")
   console.log("Some new changes...")
   console.log("Some new changes...")
+
+  console.log("Some new changes...")
+  console.log("Some new changes...")
+  console.log("Some new changes...")
   
     return (
         <div className={styles.lightSection}>
