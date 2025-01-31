@@ -4,6 +4,9 @@ import { FaQuoteLeft, FaQuoteRight, FaStar } from "react-icons/fa";
 import styles from "./Quote.module.css";
 
 export default function Quote() {
+  
+  console.log("Some new changes...")
+  
     return (
         <div className={styles.lightSection}>
   <div className={styles.quoteCardDark}>
